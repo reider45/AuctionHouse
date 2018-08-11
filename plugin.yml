@@ -1,0 +1,9 @@
+name: AuctionHouse
+main: me.reider45.AuctionHouse.AuctionHouse
+version: 1.0
+description: Auction House
+author: reider45
+commands:
+   auction:
+      description: Auction House
+depend: [Vault]

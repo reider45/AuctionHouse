@@ -1,0 +1,9 @@
+Defaults:
+  SellPrice: 10.0
+  ExpireTime: 2
+Database:
+  Host: localhost
+  User: dev
+  Pass: dev
+  Port: 3306
+  DBName: auctionhouse
